@@ -7,7 +7,7 @@ package com.ip.ed.unidadesanitaria;
 
 /**
  *
- * @author JOSUÉ MUECÁLIA
+ * @author Marcos21
  */
 public class Pessoa {
     protected String nome;
